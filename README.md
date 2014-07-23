@@ -16,3 +16,5 @@ create "gruntfile.js" in MAIN FOLDER
 Install Compass
 sudo gem update --system [updates ruby gem to latest version]
 sudo gem install compass
+
+Don't forget refresh.
